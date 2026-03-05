@@ -41,6 +41,8 @@ function start() {
     setTimeout(verificarResultado, 5005);
 }
 
+
+
 function verificarResultado() {
     
     let palpite = parseInt(document.getElementById("chute").value);
